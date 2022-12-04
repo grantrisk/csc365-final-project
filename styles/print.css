@@ -1,0 +1,23 @@
+html {
+  background-image: none;
+  font-family: serif;
+  background-color: white;
+  border: none;
+}
+
+body {
+  border: 0;
+  box-shadow: none;
+  width: auto;
+  margin: 0.5in;
+}
+
+header,
+footer {
+  display: none;
+}
+
+.welcome-section, 
+.welcome-section-2 {
+    background-color: white;
+}
